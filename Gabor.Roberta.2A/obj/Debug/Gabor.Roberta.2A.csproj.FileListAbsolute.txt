@@ -1,0 +1,10 @@
+C:\Users\TCL\Desktop\Gabor.Roberta.2A\bin\Debug\Gabor.Roberta.2A.exe.config
+C:\Users\TCL\Desktop\Gabor.Roberta.2A\bin\Debug\Gabor.Roberta.2A.exe
+C:\Users\TCL\Desktop\Gabor.Roberta.2A\bin\Debug\Gabor.Roberta.2A.pdb
+C:\Users\TCL\Desktop\Gabor.Roberta.2A\bin\Debug\Entidades.dll
+C:\Users\TCL\Desktop\Gabor.Roberta.2A\bin\Debug\Entidades.pdb
+C:\Users\TCL\Desktop\Gabor.Roberta.2A\obj\Debug\Gabor.Roberta.2A.csprojAssemblyReference.cache
+C:\Users\TCL\Desktop\Gabor.Roberta.2A\obj\Debug\Gabor.Roberta.2A.csproj.CoreCompileInputs.cache
+C:\Users\TCL\Desktop\Gabor.Roberta.2A\obj\Debug\Gabor.Roberta.2A.csproj.CopyComplete
+C:\Users\TCL\Desktop\Gabor.Roberta.2A\obj\Debug\Gabor.Roberta.2A.exe
+C:\Users\TCL\Desktop\Gabor.Roberta.2A\obj\Debug\Gabor.Roberta.2A.pdb
