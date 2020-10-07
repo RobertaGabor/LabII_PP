@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Entidades\Entidades.csproj">
+    <ProjectReference Include="Entidades\Entidades.csproj">
       <Project>{e5ecd41c-51e5-42ef-95b1-cccef5062672}</Project>
       <Name>Entidades</Name>
     </ProjectReference>

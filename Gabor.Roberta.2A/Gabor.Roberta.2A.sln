@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gabor.Roberta.2A", "Gabor.Roberta.2A.csproj", "{B7C9C686-3778-4F3B-AEAD-2F2F3A873DA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "..\Entidades\Entidades.csproj", "{E5ECD41C-51E5-42EF-95B1-CCCEF5062672}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{E5ECD41C-51E5-42EF-95B1-CCCEF5062672}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
